@@ -1,0 +1,5 @@
+{
+  "name": "MindMap AI Clone",
+  "description": "An AI-powered mind mapping tool that helps you visualize ideas and expand them using Gemini.",
+  "requestFramePermissions": []
+}
